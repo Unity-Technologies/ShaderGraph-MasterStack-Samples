@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: e27aa52e56b6a944aa07a55a93f660b2
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dead_Plant_4_GRP2
+    100004: Dead_Plant_6_GRP1
+    100006: Dead_Plant_7_GRP2
+    100008: Dead_Plant_8_GRP3
+    100010: Dead_Plant_9_GRP3
+    100012: DeadPlant3_Var2_LOD0
+    100014: DeadPlant3_Var2_LOD1
+    100016: DeadPlant3_Var2_LOD2
+    100018: LOD0_Dead_Plant_4
+    100020: LOD0_Dead_Plant_6
+    100022: LOD0_Dead_Plant_7
+    100024: LOD0_Dead_Plant_8
+    100026: LOD0_Dead_Plant_9
+    100028: LOD1_Dead_Plant_4
+    100030: LOD1_Dead_Plant_6
+    100032: LOD1_Dead_Plant_7
+    100034: LOD1_Dead_Plant_8
+    100036: LOD1_Dead_Plant_9
+    100038: LOD2_Dead_Plant_4
+    100040: LOD2_Dead_Plant_6
+    100042: LOD2_Dead_Plant_7
+    100044: LOD2_Dead_Plant_8
+    100046: LOD2_Dead_Plant_9
+    100048: Plant_02
+    100050: transform28
+    100052: transform29
+    100054: transform30
+    100056: transform31
+    100058: transform32
+    100060: transform33
+    100062: transform34
+    100064: transform35
+    100066: transform36
+    100068: transform37
+    100070: transform38
+    100072: transform39
+    100074: transform40
+    100076: transform41
+    100078: transform42
+    400000: //RootNode
+    400002: Dead_Plant_4_GRP2
+    400004: Dead_Plant_6_GRP1
+    400006: Dead_Plant_7_GRP2
+    400008: Dead_Plant_8_GRP3
+    400010: Dead_Plant_9_GRP3
+    400012: DeadPlant3_Var2_LOD0
+    400014: DeadPlant3_Var2_LOD1
+    400016: DeadPlant3_Var2_LOD2
+    400018: LOD0_Dead_Plant_4
+    400020: LOD0_Dead_Plant_6
+    400022: LOD0_Dead_Plant_7
+    400024: LOD0_Dead_Plant_8
+    400026: LOD0_Dead_Plant_9
+    400028: LOD1_Dead_Plant_4
+    400030: LOD1_Dead_Plant_6
+    400032: LOD1_Dead_Plant_7
+    400034: LOD1_Dead_Plant_8
+    400036: LOD1_Dead_Plant_9
+    400038: LOD2_Dead_Plant_4
+    400040: LOD2_Dead_Plant_6
+    400042: LOD2_Dead_Plant_7
+    400044: LOD2_Dead_Plant_8
+    400046: LOD2_Dead_Plant_9
+    400048: Plant_02
+    400050: transform28
+    400052: transform29
+    400054: transform30
+    400056: transform31
+    400058: transform32
+    400060: transform33
+    400062: transform34
+    400064: transform35
+    400066: transform36
+    400068: transform37
+    400070: transform38
+    400072: transform39
+    400074: transform40
+    400076: transform41
+    400078: transform42
+    2100000: lambert2
+    2300000: DeadPlant3_Var2_LOD0
+    2300002: DeadPlant3_Var2_LOD1
+    2300004: DeadPlant3_Var2_LOD2
+    3300000: DeadPlant3_Var2_LOD0
+    3300002: DeadPlant3_Var2_LOD1
+    3300004: DeadPlant3_Var2_LOD2
+    4300000: DeadPlant3_Var2_LOD0
+    4300002: DeadPlant3_Var2_LOD1
+    4300004: DeadPlant3_Var2_LOD2
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 8012f207862e7884d87f2ea72c10b5c4, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: model_processed_v01
+  assetBundleName: 
+  assetBundleVariant: 

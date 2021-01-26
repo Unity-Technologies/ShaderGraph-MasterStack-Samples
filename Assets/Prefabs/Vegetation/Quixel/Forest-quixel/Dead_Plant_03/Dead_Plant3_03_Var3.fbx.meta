@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 2cf922d578a34684a826ff98f72333d5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dead_Plant_3_GRP2
+    100004: Dead_Plant_5_GRP1
+    100006: Dead_Plant_8_GRP4
+    100008: Dead_Plant_9_GRP4
+    100010: DeadPlant3_Var3_LOD0
+    100012: DeadPlant3_Var3_LOD1
+    100014: DeadPlant3_Var3_LOD2
+    100016: LOD0_Dead_Plant_3
+    100018: LOD0_Dead_Plant_5
+    100020: LOD0_Dead_Plant_8
+    100022: LOD0_Dead_Plant_9
+    100024: LOD1_Dead_Plant_3
+    100026: LOD1_Dead_Plant_5
+    100028: LOD1_Dead_Plant_8
+    100030: LOD1_Dead_Plant_9
+    100032: LOD2_Dead_Plant_3
+    100034: LOD2_Dead_Plant_5
+    100036: LOD2_Dead_Plant_8
+    100038: LOD2_Dead_Plant_9
+    100040: Plant_03
+    100042: transform43
+    100044: transform44
+    100046: transform45
+    100048: transform46
+    100050: transform47
+    100052: transform48
+    100054: transform49
+    100056: transform50
+    100058: transform51
+    100060: transform52
+    100062: transform53
+    100064: transform54
+    400000: //RootNode
+    400002: Dead_Plant_3_GRP2
+    400004: Dead_Plant_5_GRP1
+    400006: Dead_Plant_8_GRP4
+    400008: Dead_Plant_9_GRP4
+    400010: DeadPlant3_Var3_LOD0
+    400012: DeadPlant3_Var3_LOD1
+    400014: DeadPlant3_Var3_LOD2
+    400016: LOD0_Dead_Plant_3
+    400018: LOD0_Dead_Plant_5
+    400020: LOD0_Dead_Plant_8
+    400022: LOD0_Dead_Plant_9
+    400024: LOD1_Dead_Plant_3
+    400026: LOD1_Dead_Plant_5
+    400028: LOD1_Dead_Plant_8
+    400030: LOD1_Dead_Plant_9
+    400032: LOD2_Dead_Plant_3
+    400034: LOD2_Dead_Plant_5
+    400036: LOD2_Dead_Plant_8
+    400038: LOD2_Dead_Plant_9
+    400040: Plant_03
+    400042: transform43
+    400044: transform44
+    400046: transform45
+    400048: transform46
+    400050: transform47
+    400052: transform48
+    400054: transform49
+    400056: transform50
+    400058: transform51
+    400060: transform52
+    400062: transform53
+    400064: transform54
+    2100000: lambert2
+    2300000: DeadPlant3_Var3_LOD0
+    2300002: DeadPlant3_Var3_LOD1
+    2300004: DeadPlant3_Var3_LOD2
+    3300000: DeadPlant3_Var3_LOD0
+    3300002: DeadPlant3_Var3_LOD1
+    3300004: DeadPlant3_Var3_LOD2
+    4300000: DeadPlant3_Var3_LOD0
+    4300002: DeadPlant3_Var3_LOD1
+    4300004: DeadPlant3_Var3_LOD2
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 8012f207862e7884d87f2ea72c10b5c4, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: model_processed_v01
+  assetBundleName: 
+  assetBundleVariant: 

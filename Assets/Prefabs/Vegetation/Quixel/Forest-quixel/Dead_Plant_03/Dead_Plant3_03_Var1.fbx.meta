@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: b05f7ae663dabc345bcdf48df06fdc0e
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DeadPlant3_Var1_LOD0
+    100004: DeadPlant3_Var1_LOD1
+    100006: DeadPlant3_Var1_LOD2
+    100008: group1
+    100010: LOD0_Dead_Plant_1
+    100012: LOD0_Dead_Plant_10
+    100014: LOD0_Dead_Plant_11
+    100016: LOD0_Dead_Plant_2
+    100018: LOD0_Dead_Plant_3
+    100020: LOD0_Dead_Plant_4
+    100022: LOD0_Dead_Plant_7
+    100024: LOD0_Dead_Plant_8
+    100026: LOD0_Dead_Plant_9
+    100028: LOD1_Dead_Plant_1
+    100030: LOD1_Dead_Plant_10
+    100032: LOD1_Dead_Plant_11
+    100034: LOD1_Dead_Plant_2
+    100036: LOD1_Dead_Plant_3
+    100038: LOD1_Dead_Plant_4
+    100040: LOD1_Dead_Plant_7
+    100042: LOD1_Dead_Plant_8
+    100044: LOD1_Dead_Plant_9
+    100046: LOD2_Dead_Plant_1
+    100048: LOD2_Dead_Plant_10
+    100050: LOD2_Dead_Plant_11
+    100052: LOD2_Dead_Plant_2
+    100054: LOD2_Dead_Plant_3
+    100056: LOD2_Dead_Plant_4
+    100058: LOD2_Dead_Plant_7
+    100060: LOD2_Dead_Plant_8
+    100062: LOD2_Dead_Plant_9
+    100064: Plant_01
+    100066: transform1
+    100068: transform10
+    100070: transform11
+    100072: transform12
+    100074: transform13
+    100076: transform14
+    100078: transform15
+    100080: transform16
+    100082: transform17
+    100084: transform18
+    100086: transform19
+    100088: transform2
+    100090: transform20
+    100092: transform21
+    100094: transform22
+    100096: transform23
+    100098: transform24
+    100100: transform25
+    100102: transform26
+    100104: transform27
+    100106: transform3
+    100108: transform4
+    100110: transform5
+    100112: transform6
+    100114: transform7
+    100116: transform8
+    100118: transform9
+    400000: //RootNode
+    400002: DeadPlant3_Var1_LOD0
+    400004: DeadPlant3_Var1_LOD1
+    400006: DeadPlant3_Var1_LOD2
+    400008: group1
+    400010: LOD0_Dead_Plant_1
+    400012: LOD0_Dead_Plant_10
+    400014: LOD0_Dead_Plant_11
+    400016: LOD0_Dead_Plant_2
+    400018: LOD0_Dead_Plant_3
+    400020: LOD0_Dead_Plant_4
+    400022: LOD0_Dead_Plant_7
+    400024: LOD0_Dead_Plant_8
+    400026: LOD0_Dead_Plant_9
+    400028: LOD1_Dead_Plant_1
+    400030: LOD1_Dead_Plant_10
+    400032: LOD1_Dead_Plant_11
+    400034: LOD1_Dead_Plant_2
+    400036: LOD1_Dead_Plant_3
+    400038: LOD1_Dead_Plant_4
+    400040: LOD1_Dead_Plant_7
+    400042: LOD1_Dead_Plant_8
+    400044: LOD1_Dead_Plant_9
+    400046: LOD2_Dead_Plant_1
+    400048: LOD2_Dead_Plant_10
+    400050: LOD2_Dead_Plant_11
+    400052: LOD2_Dead_Plant_2
+    400054: LOD2_Dead_Plant_3
+    400056: LOD2_Dead_Plant_4
+    400058: LOD2_Dead_Plant_7
+    400060: LOD2_Dead_Plant_8
+    400062: LOD2_Dead_Plant_9
+    400064: Plant_01
+    400066: transform1
+    400068: transform10
+    400070: transform11
+    400072: transform12
+    400074: transform13
+    400076: transform14
+    400078: transform15
+    400080: transform16
+    400082: transform17
+    400084: transform18
+    400086: transform19
+    400088: transform2
+    400090: transform20
+    400092: transform21
+    400094: transform22
+    400096: transform23
+    400098: transform24
+    400100: transform25
+    400102: transform26
+    400104: transform27
+    400106: transform3
+    400108: transform4
+    400110: transform5
+    400112: transform6
+    400114: transform7
+    400116: transform8
+    400118: transform9
+    2100000: lambert2
+    2300000: DeadPlant3_Var1_LOD0
+    2300002: DeadPlant3_Var1_LOD1
+    2300004: DeadPlant3_Var1_LOD2
+    3300000: DeadPlant3_Var1_LOD0
+    3300002: DeadPlant3_Var1_LOD1
+    3300004: DeadPlant3_Var1_LOD2
+    4300000: DeadPlant3_Var1_LOD0
+    4300002: DeadPlant3_Var1_LOD1
+    4300004: DeadPlant3_Var1_LOD2
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 8012f207862e7884d87f2ea72c10b5c4, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 0
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: model_processed_v01
+  assetBundleName: 
+  assetBundleVariant: 
