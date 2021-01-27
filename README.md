@@ -25,4 +25,11 @@ Unity's Shader Graph introduced a new Master Stack feature in recent release. Yo
 
 ### Acknowledgement
 
-This project uses some environment assets from Unity's previously released sample project, the [Boat Attack](https://github.com/Unity-Technologies/BoatAttack) and the [Vertex Animation example project](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/). 
+This project uses some environment assets from Unity's previously released sample project and content: 
+
+- [ ] [Boat Attack](https://github.com/Unity-Technologies/BoatAttack) 
+
+- [ ] [Vertex Animation example project](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/). 
+
+- [ ] [Book of the Dead](https://assetstore.unity.com/packages/essentials/tutorial-projects/book-of-the-dead-environment-121175)
+- [ ] [3D Game Kit](https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747#releases)
