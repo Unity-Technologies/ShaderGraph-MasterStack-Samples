@@ -1,11 +1,30 @@
-# Shader Graph Master Stack Demo Project
+# Shader Graph Master Stack Sample Project
 
-This project is intended to work with Unity 2020.2. 
+This project is intended to work with Unity 2020.2. The current project version is set to 2020.2.2f1. 
 
-Shader Graph introduces a new Master Stack in replace of Master Nodes in th recent release. And this demo project was created using Unity’s Universal Render Pipeline. In the demo project, we have a miniature beach environment featuring two different kinds of water built with  shaders created in Shader Graph: the waterfall over the cliffs, and the ocean connected to the island. You can find the completed sample scene in Asset > Scenes > Master Stack Demo Scene. 
+**Note: This repository is setup using GitLFS. Before cloning the project to your local repository, you will need to get LFS installed and initialized.** 
 
+Unity's Shader Graph introduced a new Master Stack feature in recent release. You can read the official blog post about the Master Stack release here. This sample project was created using Unity’s Universal Render Pipeline. It contains a miniature scenery with waterfalls and small ocean that showcasing the usage of vertex and fragment stages utilizing Master Stack's interface in Shader Graph. 
 
+![image-20210127005657704](C:\Users\xiaoxi\AppData\Roaming\Typora\typora-user-images\image-20210127005657704.png)
 
-# Converting to public repository
-Any and all Unity software of any description (including components) (1) whose source is to be made available other than under a Unity source code license or (2) in respect of which a public announcement is to be made concerning its inner workings, may be licensed and released only upon the prior approval of Legal.
-The process for that is to access, complete, and submit this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSe3H6PARLPIkWVjdB_zMvuIuIVtrqNiGlEt1yshkMCmCMirvA/viewform).
+#### Instructions
+
+1. Install [Git LFS](https://git-lfs.github.com/) on your machine
+2. Clone this repository to you local machine
+3. Inside the repository, run `git lfs install` 
+4. Download Unity 2020.2 versions if you don't have locally
+5. Launch the project with Unity
+6. Locate the sample scene here once project is opened: **Assets -> Scenes -> MasterStackDemoScene.unity**
+
+#### Additional Available Shader Graph Sample Projects
+
+[Shader Graph Example Library](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
+
+[Shader Graph Lit Master Node](https://github.com/Unity-Technologies/ShaderGraphFeatureDemo_LitMasterNode)
+
+[Shader Graph Custom Lighting Function](https://github.com/Unity-Technologies/ShaderGraphFeatureDemo_LitMasterNode)
+
+#### Acknowledgement
+
+This project uses some environment assets from Unity's previously released sample project, the [Boat Attack](https://github.com/Unity-Technologies/BoatAttack) and the [Vertex Animation example project](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/). 
