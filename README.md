@@ -6,9 +6,7 @@ This project is intended to work with Unity 2020.2. The current project version 
 
 Unity's Shader Graph introduced a new Master Stack feature in recent release. You can read the official blog post about the Master Stack release here. This sample project was created using Unity’s Universal Render Pipeline. It contains a miniature scenery with waterfalls and small ocean that showcasing the usage of vertex and fragment stages utilizing Master Stack's interface in Shader Graph. 
 
-![image-20210127005657704](C:\Users\xiaoxi\AppData\Roaming\Typora\typora-user-images\image-20210127005657704.png)
-
-#### Instructions
+### Instructions
 
 1. Install [Git LFS](https://git-lfs.github.com/) on your machine
 2. Clone this repository to you local machine
@@ -17,7 +15,7 @@ Unity's Shader Graph introduced a new Master Stack feature in recent release. Yo
 5. Launch the project with Unity
 6. Locate the sample scene here once project is opened: **Assets -> Scenes -> MasterStackDemoScene.unity**
 
-#### Additional Available Shader Graph Sample Projects
+### Additional Available Shader Graph Sample Projects
 
 [Shader Graph Example Library](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary)
 
@@ -25,6 +23,6 @@ Unity's Shader Graph introduced a new Master Stack feature in recent release. Yo
 
 [Shader Graph Custom Lighting Function](https://github.com/Unity-Technologies/ShaderGraphFeatureDemo_LitMasterNode)
 
-#### Acknowledgement
+### Acknowledgement
 
 This project uses some environment assets from Unity's previously released sample project, the [Boat Attack](https://github.com/Unity-Technologies/BoatAttack) and the [Vertex Animation example project](https://blogs.unity3d.com/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/). 
