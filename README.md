@@ -23,4 +23,4 @@ Unity's Shader Graph introduced a new Master Stack feature in recent release. Yo
 
 [Shader Graph Lit Master Node](https://github.com/Unity-Technologies/ShaderGraphFeatureDemo_LitMasterNode)
 
-[Shader Graph Custom Lighting Function](https://github.com/Unity-Technologies/ShaderGraphFeatureDemo_LitMasterNode)
+[Shader Graph Custom Lighting Function](https://github.com/Unity-Technologies/ShaderGraph-Custom-Lighting)
