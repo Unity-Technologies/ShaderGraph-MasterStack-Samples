@@ -6380,7 +6380,7 @@
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.GroupData",
     "m_ObjectId": "6b241e23bdf448a1861568540c481c78",
-    "m_Title": "Depth Value",
+    "m_Title": "For Calculating Depth Value",
     "m_Position": {
         "x": -2346.66650390625,
         "y": 584.666748046875
@@ -6626,7 +6626,7 @@
     "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
     "m_ObjectId": "6f7bcb83d33747f4a79542ddc4510032",
     "m_Title": "Note:",
-    "m_Content": "Vertex color is pre-painted to seperate top and the sode of the dome",
+    "m_Content": "Vertex color is pre-painted to seperate top and the side of the dome",
     "m_TextSize": 0,
     "m_Theme": 0,
     "m_Position": {
