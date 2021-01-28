@@ -6,6 +6,8 @@ This project is intended to work with Unity 2020.2. The current project version 
 
 Unity's Shader Graph introduced a new Master Stack feature in recent release. You can read the official blog post about the Master Stack release here. This sample project was created using Unity’s Universal Render Pipeline. It contains a miniature scenery with waterfalls and small ocean that showcasing the usage of vertex and fragment stages utilizing Master Stack's interface in Shader Graph. 
 
+![MasterStackDemo](Assets/Images/MasterStackDemo.PNG)
+
 ### Instructions
 
 1. Install [Git LFS](https://git-lfs.github.com/) on your machine
