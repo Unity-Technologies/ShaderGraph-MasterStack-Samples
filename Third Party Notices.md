@@ -3,37 +3,53 @@ This package contains third-party software components governed by the license(s)
 
 Component Name: 3D Game Kit
 
-License Type: Public domain
+License Type: Unity Asset Store EULA
 
-Link: https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747#releases
+https://assetstore.unity.com/packages/templates/tutorials/3d-game-kit-115747#releases
+
+License: https://unity3d.com/legal/as_terms
 
 ---------
 Component Name: Book of the Dead
 
-License Type: Public domain
+License Type: Unity Asset Store EULA
 
-Link: https://assetstore.unity.com/packages/essentials/tutorial-projects/book-of-the-dead-environment-121175
+https://assetstore.unity.com/packages/essentials/tutorial-projects/book-of-the-dead-environment-121175
+
+License: https://unity3d.com/legal/as_terms
 
 ---------
 
 Component Name: Boat Attack
 
-License Type: Public domain
+License Type: Unity Companion License
 
-Link: https://github.com/Unity-Technologies/BoatAttack
+Copyright (c) 2018 Unity Technologies
+
+https://github.com/Unity-Technologies/BoatAttack
+
+License: https://unity3d.com/legal/licenses/Unity_Companion_License
 
 ---------
 
 Component Name: Test Shader Graph Blog
 
-License Type: Public domain
+License Type: Creative Commons 4.0 International
 
-Link: https://github.com/UnityTechnologies/Test_ShaderGraphBlog
+Copyright (c) 2018 Unity Technologies
+
+https://github.com/UnityTechnologies/Test_ShaderGraphBlog
+
+License: https://creativecommons.org/licenses/by/4.0/legalcode 
 
 ---------
 
 Component Name: Shader Graph Updates and Sample Project
 
-License Type: Public domain
+License Type: Unity Companion License
 
-Link: https://github.com/alindmanUnity/ShaderGraph-FeatureDemo-2018-2
+Copyright (c) 2018 Unity Technologies
+
+https://github.com/alindmanUnity/ShaderGraph-FeatureDemo-2018-2
+
+License: https://unity3d.com/legal/licenses/Unity_Companion_License
